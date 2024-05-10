@@ -1,1 +1,2 @@
 # HR_Dataset_Analysis
+The project aims to provide comprehensive insights into various aspects of employee management, including department-wise attrition, employees' qualifications, and ratings given to the company. Leveraging the power of data visualization and analytics, this project offers actionable insights to aid decision-making processes within the HR department and across the organization.
